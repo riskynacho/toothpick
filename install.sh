@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+echo $key1
+echo $key2
+echo $key3
+echo $key4
+
 useradd -m -s /bin/bash glitch
 mkdir /mnt/vdb1
 chmod 777 /mnt/vdb1
